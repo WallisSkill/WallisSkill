@@ -10,6 +10,7 @@
 - ⚡ Fun fact **Every time if I trully love someone, that costs me 4 years to forget about them and move on**
 
 <h3 align="left">Connect with me:</h3>
+- Discord: @wallisskill
 <p align="left">
 </p>
 
