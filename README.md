@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WiS</h1>
-<h3 align="center">A passionate backend, devsop developer from Vietnam with ❤</h3>
+<h3 align="center">A passionate Backend Dev, DevOps Engineer from Vietnam with ❤</h3>
 
 - 🔭 I’m currently working on [Volunteer-link](https://volunteer-link.site/)
 
