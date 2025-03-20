@@ -17,7 +17,9 @@
 - Discord: @wallisskill
 <div style="display: flex; justify-content: space-between;">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250" height="150" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTN1bWZnbnZybTR2MnBlMTVibTI3eWU2Z3JmdmY4azFneXI1aGEzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="250" height="150" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTN1bWZnbnZybTR2MnBlMTVibTI3eWU2Z3JmdmY4azFneXI1aGEzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="250" height="150" 
+  />
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGY3cHNnNXV4bDh4cmg5b25tOHhhdTIwaWMwOWY4Z2FlaXRlcmNmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="250" height="150" />
 </div>
 
 
