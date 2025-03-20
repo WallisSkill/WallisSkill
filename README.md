@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm WiS</h1>
+<h1 align="center">Hi 👋, I'm WiS</h1>
 <h3 align="center">A passionate Backend Dev, DevOps Engineer from Vietnam with ❤</h3>
 
 - 🔭 I’m currently working on [Volunteer-link](https://volunteer-link.site/)
@@ -21,4 +21,3 @@
 <p><a href="https://www.buymeacoffee.com/wallisskill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wallisskill" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallisskill&show_icons=true&locale=en&layout=compact" alt="wallisskill" /></p>
-](https://skillicons.dev/icons?i=azure,bash,csharp,docker,dotnet,git,java,javascript,kafka,kubernetes,linux,mysql,nginx,postgres,postman,spring,sqlite,unity,python,quarkus&theme=dark)
