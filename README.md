@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hoanganh23072@gmail.com**
 
-- ⚡ Fun fact **Every time if I trully love someone, that costs me 4 years to forget about them and move on**
+- ⚡ Fun fact **Love to die but not yet**
 
 <h3 align="left">Connect with me:</h3>
 - Discord: @wallisskill
