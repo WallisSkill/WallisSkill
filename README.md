@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hoanganh23072@gmail.com**
 
-- ⚡ Fun fact **Love to die but not yet**
+- ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 - Discord: @wallisskill
